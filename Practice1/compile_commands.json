@@ -1,0 +1,5 @@
+[{
+  "file": "/Users/julianoseng/Documents/CPPlearning/Practice1/Constants/main.cpp",
+  "directory": "/Users/julianoseng/Documents/CPPlearning/Practice1/Constants",
+  "command": "/usr/bin/g++ -c /Users/julianoseng/Documents/CPPlearning/Practice1/Constants/main.cpp -o /Users/julianoseng/Documents/CPPlearning/Practice1/Constants/main.cpp.o -target x86_64-apple-darwin21.5.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/13.1.6/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -std=c++17  -Wall"
+ }]
